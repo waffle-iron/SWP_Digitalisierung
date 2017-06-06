@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MichaelHae/SWP_Digitalisierung.png?label=ready&title=Ready)](https://waffle.io/MichaelHae/SWP_Digitalisierung?utm_source=badge)
 # SWP_Digitalisierung
 Entwicklung und Programmierung einer anpassbaren und webbasierten Datenerfassungs- und Auswertungsapplikation für Betriebsdaten
 
